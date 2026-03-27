@@ -11,64 +11,90 @@ Explorar o uso da Inteligência Artificial como ferramenta de apoio ao aprendiza
 
 ##  Prompt 1 — Introdução ao Python
 
-**Prompt:**
+**Prompt:**  
 Explique Python como se eu fosse um iniciante absoluto.
 
-**Resposta (resumo):**
+**Resposta (resumo):**  
 Python é uma linguagem de programação simples, muito utilizada para automação, análise de dados e desenvolvimento de sistemas.
 
-**Problema encontrado:**
+**Problema encontrado:**  
 Resposta muito genérica.
 
-**Ajuste realizado:**
+**Ajuste realizado:**  
 Explique Python com exemplos práticos e simples.
 
 ---
 
 ##  Prompt 2 — Variáveis
 
-**Prompt:**
+**Prompt:**  
 Explique o que são variáveis em Python com exemplos.
 
-**Resposta (resumo):**
+**Resposta (resumo):**  
 Variáveis são espaços na memória usados para armazenar dados.
 
 **Exemplo gerado:**
-```python
-nome = "João"
-idade = 30
+
+    nome = "João"
+    idade = 30
+
+**Problema encontrado:**  
+Faltou analogia para facilitar entendimento.
+
+**Ajuste realizado:**  
+Explique variáveis usando analogia do dia a dia.
 
 ---
 
 ##  Prompt 3 — Estruturas Condicionais
 
-##Prompt:
+**Prompt:**  
 Explique o uso do if/else em Python com exemplo simples.
 
-##Resposta (resumo):
+**Resposta (resumo):**  
 Permite tomar decisões no código com base em condições.
 
-##Exemplo gerado:
+**Exemplo gerado:**
 
-idade = 18
+    idade = 18
 
-if idade >= 18:
-    print("Maior de idade")
-else:
-    print("Menor de idade")
+    if idade >= 18:
+        print("Maior de idade")
+    else:
+        print("Menor de idade")
 
 ---
 
 ##  Prompt 4 — Exercícios Práticos
 
-##Prompt:
+**Prompt:**  
 Crie um exercício simples de Python com resposta.
 
-##Resposta (resumo):
+**Resposta (resumo):**  
 Exercício de soma de números com solução comentada.
 
-##Problema encontrado:
+**Problema encontrado:**  
 Exercício muito fácil.
 
-##Ajuste realizado:
+**Ajuste realizado:**  
 Crie exercício com nível iniciante + desafio adicional.
+
+---
+
+##  Conclusão
+
+Durante o uso da IA, foi possível perceber que:
+
+- Prompts genéricos geram respostas genéricas  
+- Quanto mais específico o prompt, melhor a resposta  
+- Pedir exemplos práticos melhora muito o aprendizado  
+- Refinar perguntas faz parte do processo  
+
+---
+
+##  Prompts Reutilizáveis
+
+- Explique [tema] como se eu fosse iniciante  
+- Dê exemplos práticos sobre [tema]  
+- Crie exercícios com resposta sobre [tema]  
+- Explique [tema] com analogia simples  
