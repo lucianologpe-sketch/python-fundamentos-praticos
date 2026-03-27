@@ -36,8 +36,8 @@ Plataforma com exercícios práticos para fixação do conteúdo.
 
 ---
 
-## 📊 5. Real Python
+##  5. Real Python
 https://realpython.com/
 
-📌 Descrição:
+Descrição:
 Artigos e tutoriais aprofundados sobre Python, com exemplos do mundo real.
